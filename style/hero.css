@@ -28,8 +28,8 @@
   background: #c6093b;
 }
 .hero.active a {
-  color: white;
-  text-decoration-color: #0033a0;
+  color: #F6D8AE;
+  text-decoration-color: #2E4057;
 }
 
 @media (max-width: 800px) {
