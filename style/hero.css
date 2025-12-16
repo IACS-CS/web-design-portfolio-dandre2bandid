@@ -17,7 +17,7 @@
 .hero a {
   color: white;
   text-decoration: underline;
-  text-decoration-color: #c6093b;
+  text-decoration-color: #DA4167;
 }
 
 /* A little "activation" to demonstrate JS is working in the template */
@@ -25,7 +25,7 @@
   transition: background 0.5s;
 }
 .hero.active {
-  background: #c6093b;
+  background: #DA4167;
 }
 .hero.active a {
   color: #F6D8AE;
